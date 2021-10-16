@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("IRIS API")
+st.title("Enter the attributes of your flower and find out what species of Iris it is")
 
 
 
